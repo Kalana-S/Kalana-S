@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - Tools & Software: <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="30px" height="30px"> <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="30px" height="30px">
 
 
-## 🌱 Currently Learning
+## 🤵🏼‍♂ Currently Learning
 
 - c#
 - Java
@@ -28,16 +28,4 @@ Welcome to my GitHub profile!
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-S&theme=github_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
 
-## 🚀 Projects
-
-Here are a few projects I'm proud of:
-
-1. [Project Name](Link to Project)
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies used in the project.
-
-2. [Project Name](Link to Project)
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies used in the project.
-
-Feel free to reach out! I'm always open to collaboration and new opportunities.
+**Feel free to reach out! I'm always open to collaboration and new opportunities.**

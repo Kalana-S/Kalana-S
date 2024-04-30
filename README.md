@@ -12,7 +12,21 @@ Welcome to my GitHub profile!
 
 ## 🌱 Currently Learning
 
-- [List any technologies or skills you're currently learning]
+- c#
+- Java
+
+## 📈 GitHub Stats
+[![Kalana 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalana-S&show_icons=true&rank_icon=percentile&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Kalana-S/github-readme-stats#gh-dark-mode-only)
+
+[![Kalana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalana-S&show_icons=true&theme=github_light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Kalana-S&theme=github_dark&hide_border=false)](https://github.com/Kalana-S/github-readme-stats#gh-dark-mode-only)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Kalana-S&theme=github_light&hide_border=false)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-S&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Kalana-S/github-readme-stats#gh-dark-mode-only)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-S&theme=github_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
 
 ## 🚀 Projects
 
@@ -25,10 +39,5 @@ Here are a few projects I'm proud of:
 2. [Project Name](Link to Project)
    - Description: Brief description of the project.
    - Technologies Used: List the technologies used in the project.
-
-## 💬 Let's Connect
-
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Profile](Link to Twitter)
 
 Feel free to reach out! I'm always open to collaboration and new opportunities.

@@ -35,7 +35,7 @@
 
 ## 🤵🏼‍♂ Currently Learning  
 
-  - Python for Data Science  
+  - Python  
   - Machine Learning (ML) & Artificial Intelligence (AI)  
   - Model Evaluation & Explainable AI (XAI)
 

@@ -33,22 +33,23 @@
     </p>
 
 
-## 🤵🏼‍♂ Currently Learning
+## 🤵🏼‍♂ Currently Learning  
 
-- c#
-- Java
+  - Python for Data Science  
+  - Machine Learning (ML) & Artificial Intelligence (AI)  
+  - Model Evaluation & Explainable AI (XAI)
+
+---
 
 ## 📈 GitHub Stats
-[![Kalana 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalana-S&show_icons=true&rank_icon=percentile&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Kalana-S/github-readme-stats#gh-dark-mode-only)
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kalana-S&show_icons=true&theme=chartreuse-dark&rank_icon=percentile&text_bold=true&border_radius=10" width="50%" /><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-S&theme=chartreuse-dark&hide_border=false" width="50%" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-S&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
+  </p>
 
-[![Kalana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalana-S&show_icons=true&theme=github_light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
+---
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Kalana-S&theme=github_dark&hide_border=false)](https://github.com/Kalana-S/github-readme-stats#gh-dark-mode-only)
+## 🤝 Let's Connect
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Kalana-S&theme=github_light&hide_border=false)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-S&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Kalana-S/github-readme-stats#gh-dark-mode-only)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-S&theme=github_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Kalana-S/github-readme-stats#gh-light-mode-only)
-
-**Feel free to reach out! I'm always open to collaboration and new opportunities.**
+Feel free to reach out — I'm always open to collaboration and new opportunities!

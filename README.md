@@ -18,6 +18,7 @@
       <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" width="30px" height="30px" title="MSSQL"/>
       <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="30px" height="30px" title="SQLite"/>
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="30px" height="30px" title="Python"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" width="30px" height="30px" title="Dart"/>
     </p>
 
   - Tools & Software
@@ -38,6 +39,7 @@
   - Python  
   - Machine Learning (ML) & Artificial Intelligence (AI)  
   - Model Evaluation & Explainable AI (XAI)
+  - Flutter
 
 ---
 
